@@ -42,6 +42,9 @@ https://docs.uipath.com/installation-and-upgrade/docs/studio-install-studio
 
 <img width="248" alt="image" src="https://user-images.githubusercontent.com/103261868/233270565-166b5e48-aab8-4911-9f49-c4243c45cfa3.png">
 
+<img width="701" alt="image" src="https://user-images.githubusercontent.com/103261868/233272177-6ab28c8d-3828-4ac5-b338-c7eb88263b1e.png">
+
+
 
 
 
