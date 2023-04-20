@@ -13,12 +13,19 @@ https://docs.uipath.com/installation-and-upgrade/docs/studio-install-studio
 
 ## STEPS TO MAKE YOUR FIRST BOT
 
+1. First open your UiPath studio Community app, then to create a new bot we select Process from New Project
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/103261868/233266256-5262fd2a-d60f-4f43-b14f-4d3afbf3a0b8.png">
+2. Give name to the process and change the location according to you then create.
 <img width="332" alt="image" src="https://user-images.githubusercontent.com/103261868/233266446-58f14ffe-e21e-4c4b-85e4-76bfdb7be6a1.png">
+3. Design window for the bot will then open and we can give instructions to the bot in the main sequence.
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/103261868/233266648-0f712045-309f-4efc-98fc-f48ef2c34e5b.png">
+4. In the left search bar of Activities search for input dialog.
 <img width="230" alt="image" src="https://user-images.githubusercontent.com/103261868/233266793-932dff10-8c5b-49cd-9629-35ceb58889e3.png">
+5. Drag and Drop the input dialog in main sequence.
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/103261868/233266880-62a72b33-eff7-4885-8020-c7b1daab1742.png">
+6. input values in the dialog box as given in the picture below and in the fieled valu entered using Ctrl+K put str_name
 <img width="242" alt="image" src="https://user-images.githubusercontent.com/103261868/233267070-47cc912d-46ae-4310-b2e9-0d4a9fba4b4c.png">
+7.
 <img width="240" alt="image" src="https://user-images.githubusercontent.com/103261868/233267174-89e2e2a1-02ad-4ebe-99f7-da077f3696da.png">
 <img width="242" alt="image" src="https://user-images.githubusercontent.com/103261868/233267526-44b71c48-f641-4205-9afd-6e6d44930cb9.png">
 
